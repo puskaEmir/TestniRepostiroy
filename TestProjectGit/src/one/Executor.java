@@ -16,6 +16,8 @@ package one;
  * <URL>
  * Adresa mog repository kojeg sam upravo kreirao je:
  * https://github.com/puskaEmir/TestniRepostiroy.git
+ * Sljedeće što ću uraditi je komanda PUSH i lokalne izmjene snimiti na internetu
+ * odnosno na globalnom repository
  * 
  * 
  * @author emir
