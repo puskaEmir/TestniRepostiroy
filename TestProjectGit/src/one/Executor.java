@@ -9,6 +9,14 @@ package one;
  * STAGED - fajlovi koje želim commitati ili sačuvati u svom LOKALNO REPOSITORY
  * <p>
  * COMMIT -> komandu sam izvršio i snimio sve izmjene u kodu u LOKALNI repository
+ * <p>
+ * 
+ * Sljedeci korak je da napravim REPOSITORY na INternetu odnosno 
+ * na gitHUB-u.
+ * <URL>
+ * Adresa mog repository kojeg sam upravo kreirao je:
+ * https://github.com/puskaEmir/TestniRepostiroy.git
+ * 
  * 
  * @author emir
  *
